@@ -9,13 +9,13 @@ XYZ is a private equity firm looking to capitalize on the rapid growth of the ca
 ### Engagement Scope
 The analysis covers several critical focus areas:
 
-Profitability: Determine which company, Black Cab or Red Cab, generates the highest profit.
+1. Profitability: Determine which company, Black Cab or Red Cab, generates the highest profit.
 Performance Over Time: Assess which company consistently performs well across different time periods.
-Top Customers: Identify the top 10 customers based on income and determine the most profitable customer.
-Demographics Analysis:
-Analyze travel patterns based on gender and income groups.
-Evaluate payment preferences (cash vs. card) for Red Cab in 2018.
-Identify age groups with lower travel frequency and those with higher cab usage.
-Profitability Dashboard: Create a dynamic dashboard that highlights profitability across different demographics, including gender, age group, and income level.
+2. Top Customers: Identify the top 10 customers based on income and determine the most profitable customer.
+3. Demographics Analysis:
+- Analyze travel patterns based on gender and income groups.
+- Evaluate payment preferences (cash vs. card) for Red Cab in 2018.
+- Identify age groups with lower travel frequency and those with higher cab usage.
+4. Profitability Dashboard: Create a dynamic dashboard that highlights profitability across different demographics, including gender, age group, and income level.
 Deliverables
 The project culminates in a presentation to XYZ’s Executive team, showcasing the visualizations, analysis quality, and actionable recommendations derived from the data.

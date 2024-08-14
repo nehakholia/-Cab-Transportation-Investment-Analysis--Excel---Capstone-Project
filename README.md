@@ -19,3 +19,19 @@ Performance Over Time: Assess which company consistently performs well across di
 4. Profitability Dashboard: Create a dynamic dashboard that highlights profitability across different demographics, including gender, age group, and income level.
 Deliverables
 The project culminates in a presentation to XYZ’s Executive team, showcasing the visualizations, analysis quality, and actionable recommendations derived from the data.
+
+## Dashboard Screenshot
+<img width="920" alt="image" src="https://github.com/user-attachments/assets/6c4a28f4-852f-4032-8b5c-a186cd815e28">
+
+## Report Screenshot
+![Screenshot 2024-08-14 163600](https://github.com/user-attachments/assets/a3c1ddeb-3c19-4d31-a238-ea0143e69358)
+![Screenshot 2024-08-14 163632](https://github.com/user-attachments/assets/4c280bb8-cf6a-42cb-9822-0ad058ef7fa1)
+![Screenshot 2024-08-14 163656](https://github.com/user-attachments/assets/882b2c7b-4c22-4719-95a8-2919d5aeb5cd)
+![Screenshot 2024-08-14 163713](https://github.com/user-attachments/assets/764138ef-8991-4b21-ad1e-da2d9cf8a394)
+![Screenshot 2024-08-14 163803](https://github.com/user-attachments/assets/bb605e93-27aa-4cb3-8b64-5f5fb1790d83)
+
+
+
+
+
+

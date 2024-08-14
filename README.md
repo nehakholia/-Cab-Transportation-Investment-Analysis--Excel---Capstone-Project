@@ -1,4 +1,4 @@
-# Data-Analysis-using-Excel---Capstone-Project
+# Cab Transportation Investment Analysis-Excel---Capstone-Project
 
 ### Project Overview
 This project, completed as part of the upGrad bootcamp, focuses on analyzing data from two cab companies, Black Cab and Red Cab, to assist XYZ, a private equity firm in the US, in making an informed investment decision. The analysis involves comparing various aspects of the companies' performance to identify the more profitable and sustainable investment opportunity.
